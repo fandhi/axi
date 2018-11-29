@@ -1,0 +1,32 @@
+#popup_overlay {
+    background       : transparent url('../images/transparent.png') top left repeat !important;
+    opacity          : 1 !important;
+}
+#popup_container {
+    background-color : #ccc !important;
+    min-width        : 400px !important;
+}
+
+#popup_container h1 {
+    background-color : #47a8e5 !important;
+    padding          : 10px !important;
+    color            : #fff;
+}
+
+#popup_content {
+    padding          : 0 10px 10px;
+    max-width        : 400px;
+    text-align       : justify;
+}
+
+#popup_message {
+    padding         : 10px 0;
+}
+
+#popup_panel input[type="button"] {
+    background-color : #8F8F8F;  
+    padding          : 2px;  
+    color            : #fff;
+    font-size        : 98%;
+    cursor           : pointer;
+}
